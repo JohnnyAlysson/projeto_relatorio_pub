@@ -1,0 +1,12 @@
+05/12/2023 - Inicio do projeto:
+  Foi criado o README do projeto, Comecei a assistir os videos do curso gratuito de como fazer um programa para, tratar dados de uma panilha e enviar relatórios por email com python do Hashtag Treinamentos com Lira.
+
+07/12/2023 - Desenvolvimento do programa:
+  Após assistir algumas aulas consegui instalar os módulo necessários, fazer a importação dos mesmos no programa, e visualizar a tabelas vendas.xlsx para iniciar o tratamento dos dados.
+
+09/12/2023 - Desenvolvimento do programa:
+  Continuação do código já com as tabelas de faturamento, quantidade de produtos e ticket médio prontas, e adição de um módulo para envio de emails. Contudo o módulo não funcionou.
+
+10/12/2023 - Resolução do problema relacionado ao não funcionamento do módulo:
+  Após pesquisa, decidi trocar o módulo win32client.com pelo smtplib e depois das devidas configurações o email foi enviado com sucesso. Criado o log do projeto.
+  Após formatação final, o projeto foi concluído com sucesso, a medida que meus conhecimentos forem aprimorados farei uma atualização desse codigo colocando mais funcionalides.
