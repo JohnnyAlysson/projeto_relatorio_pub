@@ -10,3 +10,4 @@
 10/12/2023 - Resolução do problema relacionado ao não funcionamento do módulo:
   Após pesquisa, decidi trocar o módulo win32client.com pelo smtplib e depois das devidas configurações o email foi enviado com sucesso. Criado o log do projeto.
   Após formatação final, o projeto foi concluído com sucesso, a medida que meus conhecimentos forem aprimorados farei uma atualização desse codigo colocando mais funcionalides.
+  Por motivos de segurança tive de copiar o repositório para poder torna-lo público, pois nos commits haviam informações pessoas armazenadas.
